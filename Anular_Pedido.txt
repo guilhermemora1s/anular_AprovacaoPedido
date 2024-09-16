@@ -1,0 +1,15 @@
+#Procedimento para anluar uma aprovacao de pedido no SAP
+
+Acessa a transação ME29N  (Tcode para liberação de pedidos);
+
+Clica no ícone outro pedido;
+
+Insere o número do pedido;  
+
+Seleciona a aba estrat. de liberação;  
+
+Selecionar a opção da seta azul para retorno;  
+
+Salva o processo;  
+
+Verifica se ficou com o status de um triângulo amarelo, caso esteja, significa que o pedido foi anulado.  
